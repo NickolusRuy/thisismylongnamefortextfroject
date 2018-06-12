@@ -1,0 +1,34 @@
+<document>
+  <figure>
+    <prefab>GreenCube</prefab>
+    <img>GreenCube</img>
+    <descr>500 points</descr>
+    <points>500</points>
+  </figure>
+
+  <figure>
+    <prefab>BlueCube</prefab>
+    <img>BlueCube</img>
+    <descr>300 points</descr>
+    <points>300</points>
+  </figure>
+  
+  
+  <figure>
+    <prefab>Cylinder</prefab>
+    <img>Cylinder</img>
+    <descr>200 points</descr>
+    <points>200</points>
+  </figure>
+
+
+
+  <figure>
+    <prefab>Sphere</prefab>
+    <img>Sphere</img>
+    <descr>100 points</descr>
+    <points>100</points>
+  </figure>
+
+
+</document>
